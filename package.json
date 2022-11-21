@@ -1,0 +1,22 @@
+{
+  "name": "deplibrary-management-system",
+  "version": "1.0.0",
+  "description": "department library management system made with MERN",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [
+    "deplibrary-management-system"
+  ],
+  "author": "Dhivya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "react-router-dom": "^6.4.3"
+  }
+}
